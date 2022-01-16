@@ -1,10 +1,10 @@
-#how am i 
+# how am i 
 
 I'm **Ayat Alkayed**, a *civil engineer* passionate about programming and a *master's student of artificial intelligence applications in transportation engineering*. I will be 29 years old this year. I hope this year will be the year that my dreams come true through it, I hope to graduate from the University of Jordan with a master's degree and become a great full-stack software developer.
 
-#the developer should embrace the fundamental laws of software.
+# the developer should embrace the fundamental laws of software.
 
-##ther is a mindset that every developer should have.
+## ther is a mindset that every developer should have.
 
 the key points that every developer must master.
 
@@ -20,11 +20,11 @@ the key points that every developer must master.
 - he value of a change (V): How much value does the change offer? How much does it help your users?
 - The effort required to perform the change (E): How much work will you need to do to accomplish this change?
 
-to make that decisions an  equation provided by the Code Simplicity book implies thst D=V/E, which mean that The desirability of any change is directly proportional to the value of the change and inversely proportional to the effort involved in making the change.
+to make that decisions an  equation provided by the Code Simplicity book implies thst **D=V/E**, which mean that The desirability of any change is directly proportional to the value of the change and inversely proportional to the effort involved in making the change.
 9. Solving Problems. solving problem methodology consist of some steps.
-- The first step is understanding. Know exactly what is being asked. Most hard problems are hard because you don’t understand them. Write down your problem and try to explain it to someone else.
-- The second step is planning. Don’t take action.Think before acting.
-- The third step is dividing. Don’t try to solve one big problem. Divide it into smaller tasks and solve each sub-problem one by one. 
+- *The first step is understanding. Know exactly what is being asked. Most hard problems are hard because you don’t understand them. Write down your problem and try to explain it to someone else.*
+- *The second step is planning. Don’t take action.Think before acting.*
+- *The third step is dividing. Don’t try to solve one big problem. Divide it into smaller tasks and solve each sub-problem one by one.* 
 10. Good enough is fine.Start small, improve it, then extend.
 The incremental design should be the good developer guide.
 11. Predictions.Don’t predict to future. Be only as generic as you know you need to be right now.
